@@ -1,0 +1,7 @@
+BARKA,Abdelghani Yacine,H,2000,2024
+KHIAT,Nardjes,F,2003,2024
+John,Doe,M,2000,2024
+Jane,Doe,F,1988,2010
+Johnson,Doe,M,1960,1980
+Jenny,Doe,F,1960,1985
+
